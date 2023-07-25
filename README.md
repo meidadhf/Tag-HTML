@@ -1,4 +1,4 @@
-# Tag-HTML
+# Tag HTML
 
 # Pengertian Tag HTML
   Tag HTML adalah tanda awalan dan akhiran dalam perintah HTML yang bisa dibaca oleh web browser. Tag dibuat dengan menggunakan kurung siku terbuka dan tertutup (<...>). Di dalam kurung siku akan berisi nama tag.
