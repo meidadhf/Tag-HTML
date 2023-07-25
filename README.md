@@ -5,6 +5,8 @@
   Pada umumnya, ada dua tipe HTML Tag:
 * ***Opening Tag*** (tag pembuka), Contohnya ```<p>```
 * ***Closing Tag*** (tag penutup), Contohnya ```</p>```
+
+  Dokumen HTML memiliki tiga tag utama, yaitu ```<html>```, ```<head>```, dan ```<body>```.
 # Fungsi Tag HTML
   Fungsi tag HTML berbeda-beda tergantung dari perintahnya, seperti membuat judul, paragraf, heading, cetak tebal (bold), miring (italic), dan lain sebagainya.
 # Jenis-jenis Tag HTML
@@ -71,3 +73,7 @@
 * ```<code>``` : Membuat potongan kode komputer di antara teks.
 * ```<bdo>``` : Mengganti arah teks.
 * ```<source>``` : Menentukan beberapa sumber daya media untuk elemen media, seperti ```<audio>```, ```<video>```, dan ```<img>```.
+
+# Cara membaca tag HTML
+  Berikut adalah cara membaca tag HTML.
+ ![html-tag](https://github.com/meidadhf/Tag-HTML/assets/118782404/117c8a84-c47a-48b6-8f41-6386866c592b)
